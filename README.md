@@ -2,11 +2,11 @@
 
 Projeto desenvolvido durante o M3 do curso de Desenvolvimento Full Stack da Kenzie Academy Brasil. O objetivo desse projeto é criar um e-commerce funcional com carrinho de compras, fazendo o gerenciamento da aplicação com Context API.
 
-💻 [Tecnologias](#tecnologias)
+### [💻 Tecnologias](#tecnologias)
  
-📸 [Screenshots](#screenshots)
+### [📸 Screenshots](#screenshots)
 
-🏁 [Clique aqui para testar!](https://kenzie-shop-mauve.vercel.app/)
+### [🏁 Clique aqui para testar!](https://kenzie-shop-mauve.vercel.app/)
 
 ![image](https://user-images.githubusercontent.com/98785969/182213268-e2d7467f-c3f5-4ad3-80e8-49bbaa52ee70.png)
 
